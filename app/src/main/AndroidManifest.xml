@@ -22,4 +22,7 @@
         </activity>
     </application>
 
+    <!-- ↓ この1行を追加 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
 </manifest>
